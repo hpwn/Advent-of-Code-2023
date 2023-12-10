@@ -13,15 +13,15 @@ Want to dive into the puzzles? Here's how to get started:
 1. **Visit [Advent of Code](https://adventofcode.com/)** - Prepare yourself for an epic journey through code and holiday spirit.
 2. **Clone This Repository**: `git clone [Your-Repo-URL]`
 3. **Navigate into the directory**: `cd [Your-Repo-Name]`
-4. **Run the code** for each day: `python day_[number].py` - replace `python day_[number]` with the appropriate command and file name. I may use different languages like JavaScript or TypeScript to enhance my understanding.
+4. **Run the code** for each day: `python day_[number].py` - replace `python day_[number]` with the appropriate command and file name (check the language used for that day!)
 
 ## 📂 Repository Structure
 
-- Each day's puzzle is neatly wrapped in its own directory, labeled from `day_01` to `day_25`.
-- Inside each day's folder, you'll find:
-  - The puzzle description: `README.md`
-  - My solution: `solution.py`
-  - Input data: `input.txt`
+- Each day's puzzle is neatly wrapped in its own directory, labeled from `1` to `25`.
+- Inside each day's folder, here's what you may find:
+  - The puzzle description if I saved it.
+  - My solution file(s).
+  - Input data if saved.
   - And sometimes, a sprinkle of additional files if needed.
 
 ## 🎯 My Goals
@@ -38,6 +38,8 @@ This year, I'm decking the halls with the following goals:
 This year, I'm solving puzzles using:
 
 - Python 🐍 - Because who doesn't love a language named after a British comedy troupe?
+- JavaScript and TypeScript for enhanced learning and pain 🏫
+- Possibly other languages 🤔
 - A hefty dose of holiday cheer and hot cocoa ☕🎄
 
 ## 📣 Shoutouts
@@ -46,7 +48,7 @@ Big thanks to [Eric Wastl](http://was.tl/), the creator of Advent of Code, and t
 
 ## 📫 Contact Me
 
-Got questions, comments, or want to share holiday recipes? Reach out to me at [Your-Email].
+Got questions, comments, or want to share holiday recipes? Reach out to me at [hwplivnlow@gmail.com] or catch me live/watch a VOD on [Twitch](https://twitch.tv/hp_az)
 
 ---
 
